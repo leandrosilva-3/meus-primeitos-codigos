@@ -1,0 +1,7 @@
+nome = "Leandro"
+peso = 80
+meta = "ADS 2027"
+pint(f"Fala {nome}!")
+print(f"Peso atual: {peso}kg")
+print(f"Meta: {meta}")
+print("Primeiro código rodando no celular!")
